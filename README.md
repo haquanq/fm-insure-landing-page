@@ -17,7 +17,7 @@ Users should be able to:
 - Built with: `HTML` `CSS` `JS`
 - Mobile-first workflow
 
-:link: [`Solution Link`]() :link: [`Live Site Link`]()
+:link: [`Solution Link`](https://www.frontendmentor.io/solutions/only-html-and-css-and-js-Yi2YbXjXGq) :link: [`Live Site Link`](https://haquanq.github.io/fm-insure-landing-page/)
 
 ![](./.docs/design/desktop-design.jpg)
 

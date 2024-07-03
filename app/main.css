@@ -306,8 +306,8 @@ ul {
     display: block;
     width: 9.375rem;
     height: 1px;
-    background-color: var(--clr-violet-500);
     margin: 0 auto 2.5rem auto;
+    background-color: var(--clr-gray-300);
 }
 .main__headline {
     font-size: var(--text-heading-1);
@@ -356,14 +356,10 @@ ul {
     margin-bottom: 8.875rem;
 }
 .main__about-us__item {
-    max-width: 23.75rem;
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
-}
-.main__about-us__item:last-child {
-    max-width: 21.875rem;
 }
 .main__about-us__item__img {
     width: 5.375rem;
@@ -525,6 +521,9 @@ ul {
     .main__about-us__item {
         align-items: start;
     }
+    .main__about-us__item:last-child {
+        max-width: 21.875rem;
+    }
     .main__findout__wrapper {
         flex-direction: row;
         padding: 4.375rem 5rem 4.25rem 5.0625rem;
@@ -547,7 +546,7 @@ ul {
     }
     .header__intro {
         text-align: start;
-        padding: 0 34rem 0 0;
+        padding: 0 34.5rem 0 0;
     }
     .header__intro__divider {
         width: 9.375rem;
